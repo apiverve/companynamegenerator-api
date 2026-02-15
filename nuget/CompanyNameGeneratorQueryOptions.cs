@@ -12,14 +12,12 @@ namespace APIVerve.API.CompanyNameGenerator
     {
         /// <summary>
         /// The keyword to generate company names from
-        /// Example: systems
         /// </summary>
         [JsonProperty("keyword")]
         public string Keyword { get; set; }
 
         /// <summary>
-        /// The number of company names to generate (between 1 and 10)
-        /// Example: 5
+        /// The number of company names to generate
         /// </summary>
         [JsonProperty("count")]
         public string Count { get; set; }
