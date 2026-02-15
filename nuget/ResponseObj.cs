@@ -33,7 +33,6 @@ namespace APIVerve.API.CompanyNameGenerator
         public string Keyword { get; set; }
 
         [JsonProperty("count")]
-        [JsonConverter(typeof(ParseStringConverter))]
         public long Count { get; set; }
 
         [JsonProperty("names")]
