@@ -1,1 +1,3 @@
-from .apiClient import CompanynamegeneratorAPIClient
+from .apiClient import CompanynamegeneratorAPIClient, CompanynamegeneratorAPIClientError
+
+__all__ = ['CompanynamegeneratorAPIClient', 'CompanynamegeneratorAPIClientError']
