@@ -30,7 +30,11 @@ The Company Name Generator API provides a simple, reliable way to integrate comp
 ```javascript
 async function callCompanyNameGeneratorAPI() {
     try {
-        const response = await fetch('https://api.apiverve.com/v1/companynamegenerator', {
+        const params = new URLSearchParams({
+            keyword: 'systems'
+        });
+
+        const response = await fetch(`https://api.apiverve.com/v1/companynamegenerator?${params}`, {
             method: 'GET',
             headers: {
                 'x-api-key': 'YOUR_API_KEY_HERE'
@@ -50,7 +54,7 @@ callCompanyNameGeneratorAPI();
 ### Using cURL
 
 ```bash
-curl -X GET "https://api.apiverve.com/v1/companynamegenerator?param=value" \
+curl -X GET "https://api.apiverve.com/v1/companynamegenerator?keyword=systems" \
   -H "x-api-key: YOUR_API_KEY_HERE"
 ```
 
@@ -150,7 +154,7 @@ go get github.com/apiverve/companynamegenerator-api/go
 |---------|---------|
 | **Multi-language SDKs** | Native packages for JavaScript, Python, C#, Go, and Android |
 | **Simple Integration** | Single API key authentication, consistent response format |
-| **Production Ready** | 99.9% uptime, fast response times, used by thousands of developers |
+| **Production Ready** | 99.9% uptime SLA, served from 24 global regions |
 | **Comprehensive Docs** | Full examples, OpenAPI spec, and dedicated support |
 
 ---
@@ -169,7 +173,7 @@ go get github.com/apiverve/companynamegenerator-api/go
 The Company Name Generator API is commonly used for:
 
 - **Web Applications** - Add company name generator features to your frontend or backend
-- **Mobile Apps** - Native SDKs for iOS and Android development
+- **Mobile Apps** - Native SDKs for Android development
 - **Automation** - Integrate with n8n, Zapier, or custom workflows
 - **SaaS Products** - Enhance your product with company name generator capabilities
 - **Data Pipelines** - Process and analyze data at scale
