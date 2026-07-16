@@ -20,6 +20,6 @@ namespace APIVerve.API.CompanyNameGenerator
         /// The number of company names to generate
         /// </summary>
         [JsonProperty("count")]
-        public string Count { get; set; }
+        public int? Count { get; set; }
     }
 }
