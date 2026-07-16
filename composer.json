@@ -1,0 +1,49 @@
+{
+    "name": "apiverve/companynamegenerator",
+    "description": "Company Name Generator is a simple tool for generating company names. It returns a list of company names based on the specified keyword.",
+    "version": "1.2.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "APIVerve",
+            "email": "hello@apiverve.com",
+            "homepage": "https://apiverve.com"
+        }
+    ],
+    "keywords": [
+        "api",
+        "apiverve",
+        "companynamegenerator",
+        "company name generator",
+        "company name generator api",
+        "company name generator tool",
+        "company name generator software",
+        "company name generator service"
+    ],
+    "homepage": "https://apiverve.com/marketplace/companynamegenerator?utm_source=php&utm_medium=homepage",
+    "support": {
+        "email": "hello@apiverve.com",
+        "docs": "https://docs.apiverve.com/ref/companynamegenerator",
+        "source": "https://github.com/apiverve/companynamegenerator-API/tree/main/php"
+    },
+    "require": {
+        "php": ">=7.4",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "APIVerve\\Companynamegenerator\\": "php/src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "APIVerve\\Companynamegenerator\\Tests\\": "php/tests/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
