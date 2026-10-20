@@ -1,13 +1,13 @@
-# [Company Name Generator API](https://apiverve.com/marketplace/companynamegenerator?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+# [Company Name Generator API](https://apiverve.com/marketplace/companynamegenerator?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 
-Company Name Generator is a simple tool for generating company names. It returns a list of company names based on the specified keyword.
+Company Name Generator generates business name ideas from a seed keyword, returning a list of suggested brand names. Supply any industry or concept word to receive ready-made brand naming suggestions.
 
 The Company Name Generator API provides a simple, reliable way to integrate company name generator functionality into your applications. Built for developers who need production-ready company name generator capabilities without the complexity of building from scratch.
 
-**[View API Details →](https://apiverve.com/marketplace/companynamegenerator?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)**
+**[View API Details →](https://apiverve.com/marketplace/companynamegenerator?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![API Status](https://img.shields.io/badge/Status-Active-green.svg)](https://apiverve.com/marketplace/companynamegenerator?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+[![API Status](https://img.shields.io/badge/Status-Active-green.svg)](https://apiverve.com/marketplace/companynamegenerator?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 [![Method](https://img.shields.io/badge/Method-GET-blue.svg)](#)
 [![Platform](https://img.shields.io/badge/Platform-Multi--Platform-orange.svg)](#installation)
 
@@ -161,7 +161,7 @@ go get github.com/apiverve/companynamegenerator-api/go
 
 ## Documentation
 
-- 🏠 **API Home:** [Company Name Generator API](https://apiverve.com/marketplace/companynamegenerator?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+- 🏠 **API Home:** [Company Name Generator API](https://apiverve.com/marketplace/companynamegenerator?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 - 📚 **API Reference:** [docs.apiverve.com/ref/companynamegenerator](https://docs.apiverve.com/ref/companynamegenerator)
 - 📖 **OpenAPI Spec:** [openapi.yaml](./openapi.yaml)
 - 💡 **Examples:** [examples/](./examples/)
@@ -228,7 +228,7 @@ A real response from the Company Name Generator API:
 
 ## Support & Community
 
-- 🏠 **API Home**: [Company Name Generator API](https://apiverve.com/marketplace/companynamegenerator?utm_source&#x3D;github&amp;utm_medium&#x3D;readme)
+- 🏠 **API Home**: [Company Name Generator API](https://apiverve.com/marketplace/companynamegenerator?utm_source&#x3D;github&amp;utm_medium&#x3D;referral&amp;utm_content&#x3D;readme)
 - 💬 **Support**: [https://apiverve.com/contact](https://apiverve.com/contact)
 - 🐛 **Issues**: [GitHub Issues](../../issues)
 - 📖 **Documentation**: [https://docs.apiverve.com](https://docs.apiverve.com)

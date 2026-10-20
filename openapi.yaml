@@ -2,8 +2,9 @@ openapi: 3.0.4
 info:
   title: Company Name Generator
   description: >-
-    Company Name Generator is a simple tool for generating company names. It
-    returns a list of company names based on the specified keyword.
+    Company Name Generator generates business name ideas from a seed keyword,
+    returning a list of suggested brand names. Supply any industry or concept
+    word to receive ready-made brand naming suggestions.
   termsOfService: https://apiverve.com/terms/
   contact:
     name: APIVerve Support
@@ -18,7 +19,7 @@ servers:
 paths:
   /v1/companynamegenerator:
     get:
-      summary: Generate Company Names
+      summary: Company Name Generator
       description: Generate company names based on the specified criteria
       operationId: companynamegenerator
       parameters:
