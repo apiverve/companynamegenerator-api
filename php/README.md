@@ -1,6 +1,6 @@
 # Company Name Generator API - PHP Package
 
-Company Name Generator is a simple tool for generating company names. It returns a list of company names based on the specified keyword.
+Company Name Generator generates business name ideas from a seed keyword, returning a list of suggested brand names. Supply any industry or concept word to receive ready-made brand naming suggestions.
 
 ## Installation
 
@@ -92,11 +92,11 @@ $client = new Client(
 
 ## Documentation
 
-For more information, visit the [API Documentation](https://docs.apiverve.com/ref/companynamegenerator?utm_source=packagist&utm_medium=readme).
+For more information, visit the [API Documentation](https://docs.apiverve.com/ref/companynamegenerator?utm_source=packagist&utm_medium=referral&utm_content=readme).
 
 ## Support
 
-- Website: [https://apiverve.com/marketplace/companynamegenerator?utm_source=php&utm_medium=readme](https://apiverve.com/marketplace/companynamegenerator?utm_source=php&utm_medium=readme)
+- Website: [https://apiverve.com/marketplace/companynamegenerator?utm_source=php&utm_medium=referral&utm_content=readme](https://apiverve.com/marketplace/companynamegenerator?utm_source=php&utm_medium=referral&utm_content=readme)
 - Email: hello@apiverve.com
 
 ## License
