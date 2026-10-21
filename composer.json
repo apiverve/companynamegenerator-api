@@ -1,7 +1,7 @@
 {
     "name": "apiverve/companynamegenerator",
-    "description": "Company Name Generator is a simple tool for generating company names. It returns a list of company names based on the specified keyword.",
-    "version": "1.2.0",
+    "description": "Company Name Generator generates business name ideas from a seed keyword, returning a list of suggested brand names. Supply any industry or concept word to receive ready-made brand naming suggestions.",
+    "version": "1.2.2",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -15,13 +15,13 @@
         "api",
         "apiverve",
         "companynamegenerator",
-        "company name generator",
         "company name generator api",
-        "company name generator tool",
-        "company name generator software",
-        "company name generator service"
+        "business name generator",
+        "brand name generator",
+        "generate company names",
+        "company name ideas"
     ],
-    "homepage": "https://apiverve.com/marketplace/companynamegenerator?utm_source=php&utm_medium=homepage",
+    "homepage": "https://apiverve.com/marketplace/companynamegenerator?utm_source=php&utm_medium=referral&utm_content=homepage",
     "support": {
         "email": "hello@apiverve.com",
         "docs": "https://docs.apiverve.com/ref/companynamegenerator",
