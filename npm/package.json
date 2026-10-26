@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/companynamegenerator",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Company Name Generator generates business name ideas from a seed keyword, returning a list of suggested brand names. Supply any industry or concept word to receive ready-made brand naming suggestions.",
   "main": "index.js",
   "types": "index.d.ts",
