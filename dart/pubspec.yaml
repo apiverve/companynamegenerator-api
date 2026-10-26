@@ -1,7 +1,7 @@
 name: apiverve_companynamegenerator
-description: Company Name Generator is a simple tool for generating company names. It returns a list of company names based on the specified keyword.
-version: 1.1.14
-homepage: https://apiverve.com/marketplace/companynamegenerator?utm_source=dart&utm_medium=homepage
+description: "Company Name Generator generates business name ideas from a seed keyword, returning a list of suggested brand names. Supply any industry or concept word to receive ready-made brand naming suggestions."
+version: 1.2.3
+homepage: https://apiverve.com/marketplace/companynamegenerator?utm_source=dart&utm_medium=referral&utm_content=homepage
 repository: https://github.com/apiverve/companynamegenerator-api/tree/main/dart
 
 environment:
